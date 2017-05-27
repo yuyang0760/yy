@@ -1,0 +1,15 @@
+1.jdk ,jre,jvm ,java
+-----------------------------
+http://www.cnblogs.com/xiaofeixiang/p/4085159.html
+
+
+JDK（Java Development Kit）简单理解就是Java开发工具包
+JRE(Java Runtime Enviroment)是Java的运行环境
+JVM(java virtual machine)也就是常常听到Java虚拟机。
+
+
+
+JDK=JRE+开发工具集（例如javac编译工具等）
+JRE=JVM+java SE标准类库
+
+
